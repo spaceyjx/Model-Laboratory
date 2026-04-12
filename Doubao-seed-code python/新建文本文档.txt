@@ -1,0 +1,10 @@
+D:\PYTHON\PYTHON\python.exe "D:\LABmodel\Doubao-seed-code python\object_detection.py" 
+Current working directory: D:\LABmodel\Doubao-seed-code python
+Checking if files exist...
+Net file: d:\LABmodel\MobileNet-SSD-Introduction\deploy.prototxt, exists: True
+Caffe model: d:\LABmodel\MobileNet-SSD-Introduction\mobilenet_iter_73000.caffemodel, exists: True
+Test directory: d:\LABmodel\MobileNet-SSD-Introduction\images, exists: True
+Output directory: d:\LABmodel\python\picresults, exists: False
+d:\LABmodel\python\picresults does not exist
+
+进程已结束，退出代码为 0

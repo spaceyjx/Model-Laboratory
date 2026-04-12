@@ -1,4 +1,13 @@
-# MobileNet-SSD
+# MobileNet-SSD 目标检测学习项目
+
+本项目基于开源 MobileNet-SSD 进行学习与 Windows 环境适配，
+仅用于个人学习、练习编程与求职展示，**非商用**。
+原始模型版权归原作者所有。
+
+## 分支说明
+- main：主分支，项目说明
+- Branch-python：Python 版本实现
+- Branch-CSharp：C# 版本实现# MobileNet-SSD
 A caffe implementation of MobileNet-SSD detection network, with pretrained weights on VOC0712 and mAP=0.727.
 
 Network|mAP|Download|Download
