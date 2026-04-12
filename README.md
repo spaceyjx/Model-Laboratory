@@ -6,8 +6,8 @@
 
 ## 分支说明
 - main：主分支，项目说明
-- Branch-python：Python 版本实现
-- Branch-CSharp：C# 版本实现# MobileNet-SSD
+- Doubao-seed-python
+- DeepSeek-V3.1-Teminus
 A caffe implementation of MobileNet-SSD detection network, with pretrained weights on VOC0712 and mAP=0.727.
 
 Network|mAP|Download|Download
