@@ -8,6 +8,15 @@
 - main：主分支，项目说明
 - Doubao-seed-python
 - DeepSeek-V3.1-Teminus
+
+├─ main  🌟 主分支（全集）
+│    ├─ 原有项目
+│    ├─ Doubao 代码
+│    └─ DeepSeek 代码
+│
+├─ Doubao-seed-python  🌟 独立分支（自己的内容）
+│
+└─ DeepSeek-V3.1-Teminus 🌟 独立分支（自己的内容）
 A caffe implementation of MobileNet-SSD detection network, with pretrained weights on VOC0712 and mAP=0.727.
 
 Network|mAP|Download|Download
